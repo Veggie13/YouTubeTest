@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeTest", "YouTubeTest\YouTubeTest.csproj", "{62428E5D-96F3-47B4-BA5B-435ECF82E04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any = Debug|Any
+		Release|Any = Release|Any
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62428E5D-96F3-47B4-BA5B-435ECF82E04E}.Debug|Any.ActiveCfg = Debug|x86
+		{62428E5D-96F3-47B4-BA5B-435ECF82E04E}.Debug|Any.Build.0 = Debug|x86
+		{62428E5D-96F3-47B4-BA5B-435ECF82E04E}.Release|Any.ActiveCfg = Release|x86
+		{62428E5D-96F3-47B4-BA5B-435ECF82E04E}.Release|Any.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
